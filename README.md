@@ -9,6 +9,11 @@ npm run dev
 # or
 yarn dev
 ```
+To Production 
 
-## Deploy on Vercel
-[Project Preview](https://next-bootstrap-86yq4b2bw.vercel.app)
+```bash
+npm run build
+or
+yarn build
+```
+
