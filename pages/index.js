@@ -8,7 +8,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <button type="button" className="btn btn-outline-primary mt-4">
-        Hello World
+        Hellos Worlds
       </button>
     </div>
   );
